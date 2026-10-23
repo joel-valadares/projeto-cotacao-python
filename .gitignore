@@ -1,0 +1,14 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente / Chaves de API
+.env
+
+# Arquivos gerados/relatórios (opcional: se não quiser subir os dados baixados)
+*.csv
+*.xlsx
